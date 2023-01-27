@@ -50,4 +50,4 @@ list_t *add_node_end(list_t **head, const char *str)
 		tmp = tmp->next;
 	tmp->next = new;
 	return (new);
-}/*Author: davidinmichael*/
+} /*Author: davidinmichael*/
